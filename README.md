@@ -1,8 +1,4 @@
-<h1 align="center">
-  <a href="#" style="text-decoration: none;">
-    <span style="font-size: 50px; animation: bounce 1.5s infinite;">Hi, My Name Richard Johannes Pakpahan 👋</span>
-  </a>
-</h1>
+<h1>Hi, My Name Richard Johannes Pakpahan 👋</h1>
 
 
 # 💫 About Me:
