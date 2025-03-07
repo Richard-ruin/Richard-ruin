@@ -1,4 +1,15 @@
-## Hi there 👋
+<h1 align="center">
+  <a href="#" style="text-decoration: none;">
+    <span style="font-size: 50px; animation: bounce 1.5s infinite;">Hi, My Name Richard Johannes Pakpahan 👋</span>
+  </a>
+</h1>
+
+<style>
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+</style>
 
 
 # 💫 About Me:
