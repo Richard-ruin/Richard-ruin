@@ -13,10 +13,12 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Richard-ruin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Richard-ruin" alt="GitHub Streak" /></a><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-ruin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-ruin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Richard-ruin&icon=0&color=0)](https://visitcount.itsvg.in)
